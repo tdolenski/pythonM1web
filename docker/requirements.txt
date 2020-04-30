@@ -1,0 +1,6 @@
+jupyter
+ipython
+notebook
+pandas
+tornado
+seaborn
